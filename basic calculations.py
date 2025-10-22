@@ -1,11 +1,3 @@
-#basic velocity
-#drag force (if object moving)
-#lift force  (in wings)
-#pressure at a point aka bernoolli's princaple 
-#reynolds number
-#KE of air
-# flow of 2d grid
-
 import math
 
 def menu_config():
